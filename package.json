@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1",
+  "name": "gridsome-plugin-facebook-pixel",
+  "description": "Facebook pixel plugin for Gridsome",
+  "homepage": "https://github.com/lohnsonok/gridsome-plugin-facebook-pixel#readme",
+  "repository": "https://github.com/lohnsonok/gridsome-plugin-facebook-pixel",
+  "main": "gridsome.client.js",
+  "author": "Lionel Okpeicha <lohnsonok@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "gridsome.client.js"
+  ],
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "facebook",
+    "pixel",
+    "facebook-pixel"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=8"
+  }
+}
